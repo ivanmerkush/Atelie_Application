@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer idCustomer="1">
+        <name>qwe</name>
+        <birth>2010-04-12T00:00:00+04:00</birth>
+    </customer>
+    <customer idCustomer="4">
+        <name>asd</name>
+        <birth>1967-03-12T00:00:00+03:00</birth>
+    </customer>
+    <customer idCustomer="5">
+        <name>zxc</name>
+        <birth>2000-04-05T00:00:00+04:00</birth>
+    </customer>
+</customers>

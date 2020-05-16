@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orders>
+    <order idOrder="1" idCustomer="1">
+        <clothing>yyy</clothing>
+        <price>56</price>
+        <term>2020-01-30T00:00:00+03:00</term>
+    </order>
+</orders>
